@@ -1,6 +1,9 @@
 <div data-target="readme-toc.content" class="Box-body px-5 pb-5">
          
-    <a target="_blank" rel="noopener noreferrer" href="/rocketseat-education/nlw-02-omnistack/blob/master/.github/logo.svg"><img alt="Proffy" title="Proffy" src="/rocketseat-education/nlw-02-omnistack/raw/master/.github/logo.svg" style="max-width:100%;"></a>
+<div align="center">
+<img src=https://raw.githubusercontent.com/rocketseat-education/nlw-02-omnistack/af31be78f5d9fe2b0c9913196c0bbcbb97eb6de8/.github/logo.svg >
+</div>
+
 </h1>
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>   |   
