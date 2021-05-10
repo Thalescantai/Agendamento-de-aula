@@ -3,3 +3,6 @@
 </div>
 <img src=https://github.com/rocketseat-education/nlw-02-omnistack/raw/master/.github/proffy.png>
 
+🚀 <h1> Tecnologias </h1><br>
+Node.js <br>
+
