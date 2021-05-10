@@ -1,1 +1,1 @@
-<h1> <center> Proffy
+<h1> <b> Proffy
